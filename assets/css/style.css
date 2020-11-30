@@ -26,6 +26,8 @@ body {
   color: #747E88;
 }
 
+
+
 /* Set the size of the div element that contains the map */
 #map {
   height: 400px;
@@ -183,6 +185,7 @@ p {
 .section_title .title {
   font-size: 44px;
   font-weight: 600;
+  margin-top: 40px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1097,7 +1100,7 @@ p {
 .single_service {
   -webkit-box-shadow: 0px 0px 15px 0px rgba(173, 206, 243, 0.1);
   box-shadow: 0px 0px 15px 0px rgba(173, 206, 243, 0.1);
-  padding: 25px 15px;
+  padding: 25px 5px;
   background-color: #fff;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
